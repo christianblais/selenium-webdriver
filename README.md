@@ -2,6 +2,10 @@
 
 This gem provides Ruby bindings for WebDriver and has been tested to work on MRI (1.8.7 through 2.0), JRuby and Rubinius.
 
+## Changes
+
+This version remove all rubyzip requirements in favor of zipruby.
+
 ## Install
 
     gem install selenium-webdriver
